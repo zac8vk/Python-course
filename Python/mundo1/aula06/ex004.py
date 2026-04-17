@@ -1,0 +1,5 @@
+a = input('Digite algo:')
+print(f'{a}')
+print(f'É uma letra? {a.isalpha()}')
+print(f'É composta so por espacos? {a.isspace()}')
+print(f'É um numero ou faz parte do alfabeto? {a.isalnum()}')
