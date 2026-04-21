@@ -1,5 +1,5 @@
 # python-course
-Oi eu sou o isaac tenho 15 anos comecei a estudar programação dois meses atras eu criei esse repositorio para mostrar minhas respostas para os exercicios do curso de python do gustavo guanabara.
+Oi eu sou o isaac tenho 15 anos comecei a estudar programação dois meses atras, eu criei esse repositorio para mostrar minhas respostas para os exercicios do curso de python do gustavo guanabara.
 
 resolvi a grande maioria dos exercicios sem a correçao que ele fornece nas aulas.
 
